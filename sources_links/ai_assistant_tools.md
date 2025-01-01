@@ -21,3 +21,7 @@
 ## Translators
 
 - [DeepL](https://deepl.com) - a text translation based on AI
+
+## Summarises
+
+- [Summarize.ing](https://summarize.ing/) - a YouTube video summarizer
